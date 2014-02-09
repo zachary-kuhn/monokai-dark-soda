@@ -1,0 +1,1 @@
+{:+ {:editor [(:lt.objs.style/provide-test "monokai-dark-soda" "monokai-dark-soda.css")]}}

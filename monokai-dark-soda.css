@@ -1,0 +1,8 @@
+#multi.theme-monokai-dark-soda .content { background: #242424; }
+
+.cm-s-monokai-dark-soda.CodeMirror { background: #242424; color: #f8f8f2; }
+.cm-s-monokai-dark-soda .CodeMirror-cursor { border-left: 1px solid #f8f8f0 !important; }
+
+* {
+  background-color: black !important;
+}

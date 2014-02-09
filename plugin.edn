@@ -1,0 +1,5 @@
+{:name "Monokai Dark Soda"
+ :version "0.0.1"
+ :author "Zachary Kuhn"
+ :desc "Monokai Dark Soda theme for LightTable."
+ :behaviors "monokai-dark-soda.behaviors"}
